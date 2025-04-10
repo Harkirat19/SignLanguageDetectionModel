@@ -28,7 +28,6 @@ Users perform gestures live via webcam, and the system predicts the gesture in r
 - [TensorFlow / Keras](https://keras.io/)
 - [NumPy](https://numpy.org/)
 - [Scikit-learn](https://scikit-learn.org/)
-- Matplotlib (optional for visualization)
 
 ---
 
@@ -37,7 +36,7 @@ Users perform gestures live via webcam, and the system predicts the gesture in r
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/yourusername/sign-language-detection-model.git
+   git clone https://github.com/Harkirat19/SignLanguageDetectionModel.git
    ```
 
 2. **Install dependencies**
